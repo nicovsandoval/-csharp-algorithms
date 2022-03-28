@@ -26,4 +26,5 @@ Basic and technical algorithms of csharp to practice the language and become fam
 
 - Set startup project
 - run project
+
   ![visual-studio-debug](https://user-images.githubusercontent.com/52359896/160308147-f606b664-52a4-4034-8c2a-5eae9ba17a88.png)
